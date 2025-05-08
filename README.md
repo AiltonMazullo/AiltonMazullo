@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou Focado em me tornar um Desenvolvedor Front-End
 - 🌱 Estudando JavaScript e React
-- 😄 Sou um Desenvolvedor iniciante que está comprometido em transformar ideias em interfaces impressionantes, um código por vez, enquanto busco constantemente evoluir, aprimorando minhas habilidades e elevando o padrão do desenvolvimento Front End.
+- 😄 Sou um Desenvolvedor que está comprometido em transformar ideias em interfaces impressionantes, um código por vez, enquanto busco constantemente evoluir, aprimorando minhas habilidades e elevando o padrão do desenvolvimento Front End.
 
 ##
 
