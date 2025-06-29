@@ -1,8 +1,6 @@
-### Olá! Me chamo Ailton Mazullo
+Hi, my name is Ailton Rodrigues and I’m a front-end developer with experience in ReactJS and Next.js, including tools and libraries such as React Query, Context API, Styled-Components, Chakra UI, Tailwind CSS, JavaScript, and TypeScript.
 
-- 🔭 Hoje estou Focado em me tornar um Desenvolvedor Front-End
-- 🌱 Estudando JavaScript e React
-- 😄 Sou um Desenvolvedor que está comprometido em transformar ideias em interfaces impressionantes, um código por vez, enquanto busco constantemente evoluir, aprimorando minhas habilidades e elevando o padrão do desenvolvimento Front End.
+I also have solid knowledge of clean code architecture principles like SOLID, as well as experience with AWS, Docker, and problem-solving in building scalable solutions.
 
 ##
 
