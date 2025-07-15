@@ -1,6 +1,6 @@
 Hi, my name is Ailton Rodrigues and I’m a front-end developer with experience in ReactJS and Next.js, including tools and libraries such as React Query, Context API, Styled-Components, Chakra UI, Tailwind CSS, JavaScript, and TypeScript.
 
-I also have solid knowledge of clean code architecture principles like SOLID, as well as experience with AWS, Docker, and problem-solving in building scalable solutions.
+I also have solid knowledge of clean code architecture principles like SOLID, as well as experience Docker, and problem-solving in building scalable solutions.
 
 ##
 
